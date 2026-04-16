@@ -1,1 +1,1 @@
-py bot.py.txt
+py bot.py
